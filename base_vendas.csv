@@ -1,0 +1,613 @@
+﻿id_venda,cliente,cidade,categoria,produto,quantidade,preco_unitario,forma_pagamento,status
+10001,Karen,São Paulo,Eletrônicos,Monitor,5.0,1218.34,Boleto,Concluída
+10002,Thiago,Curitiba,Casa,Jogo de Cama,6.0,238.88,Cartão,Concluída
+10003,Daniela,Belo Horizonte,Casa,Panela,-1.0,,,Concluída
+10004,Nicolas,Brasília,Casa,Panela,1.0,156.45,Dinheiro,Concluída
+10005,Isabela,Curitiba,eletrônicos,Monitor,5.0,1255.33,Dinheiro,Concluída
+10006,Lucas,Curitiba,Esportes,Bola,3.0,103.58,Cartão,Concluída
+10007,Eduardo,Brasília,livros,Ficção,3.0,61.6,PIX,Concluída
+10008,Diego,Belo Horizonte,Esportes,Bola,4.0,119.13,Cartão,Concluída
+10009,Valentina,São Paulo,Livros,Administração,2.0,90.11,PIX,Cancelada
+10010,João,Rio de Janeiro,Casa,Jogo de Cama,6.0,206.03,Boleto,Concluída
+10011,Ana,Salvador,Livros,Romance,6.0,65.16,Boleto,Concluída
+10012,Lucas,São Paulo,Roupas,Jaqueta,4.0,285.77,Cartão,Concluída
+10013,Lucas,São Paulo,Casa,Aspirador,5.0,611.74,Dinheiro,Concluída
+10014,Nicolas,Porto Alegre,Casa,Cafeteira,1.0,329.41,Cartão,Concluída
+10015,João,são paulo,Livros,Tecnologia,2.0,99.54,Cartão,Concluída
+10016,Henrique,São Paulo,Livros,Tecnologia,7.0,94.37,Boleto,Cancelada
+10017,João,Belo Horizonte,Livros,Ficção,3.0,71.12,Cartão,Concluída
+10018,Sofia,Salvador,Eletrônicos,Notebook,6.0,3459.97,Cartão,Concluída
+10019,Rafael,Rio de Janeiro,Livros,Romance,4.0,59.03,PIX,Concluída
+10020,Isabela,Belo Horizonte,Esportes,Halteres,5.0,219.07,Cartão,Pendente
+10021,Rafael,Salvador,Roupas,Vestido,4.0,204.55,Dinheiro,Concluída
+10022,Karen,São Paulo,Roupas,Jaqueta,6.0,260.87,Cartão,Pendente
+10023,Elisa,Salvador,Eletrônicos,Fone Bluetooth,5.0,263.7,Boleto,Concluída
+10024,Thiago,Porto Alegre,Casa,Jogo de Cama,1.0,234.48,PIX,Concluída
+10025,Pedro,Salvador,Eletrônicos,Fone Bluetooth,1.0,245.09,PIX,Concluída
+10026,Henrique,Porto Alegre,Eletrônicos,Fone Bluetooth,2.0,250.14,Cartão,Concluída
+10027,Daniela,Curitiba,Esportes,Bola,3.0,122.92,PIX,Concluída
+10028,Eduardo,Curitiba,Roupas,Camiseta,2.0,79.58,dinheiro,Concluída
+10029,Lucas,Rio de Janeiro,Roupas,Tênis,5.0,362.03,Boleto,Concluída
+10030,Henrique,Salvador,Livros,Tecnologia,7.0,90.56,PIX,Concluída
+10031,Caio,Belo Horizonte,Roupas,Vestido,1.0,196.26,Boleto,Concluída
+10032,Gabriela,Salvador,Esportes,Halteres,1.0,261.96,Boleto,Concluída
+10033,Caio,Rio de Janeiro,Roupas,Camiseta,5.0,73.53,cartão,Concluída
+10034,Valentina,Brasília,Casa,Panela,3.0,196.65,PIX,Pendente
+10035,Marina,Brasília,Esportes,Bicicleta,5.0,1390.18,Dinheiro,Concluída
+10036,Karen,Rio de Janeiro,Casa,Liquidificador,3.0,286.93,Dinheiro,Concluída
+10037,Caio,Curitiba,Livros,Biografia,2.0,75.42,PIX,Concluída
+10038,Isabela,Salvador,Roupas,Jaqueta,3.0,245.94,Boleto,Concluída
+10039,Felipe,São Paulo,Eletrônicos,Teclado,7.0,159.63,Dinheiro,Concluída
+10040,Olivia,São Paulo,Esportes,Bola,3.0,133.48,Cartão,Concluída
+10041,Eduardo,Curitiba,Livros,Ficção,3.0,65.01,Cartão,Concluída
+10042,Diego,,Eletrônicos,Smartphone,2.0,2317.25,Cartão,Concluída
+10043,Nicolas,Brasília,Livros,Ficção,6.0,59.15,Dinheiro,Concluída
+10044,Diego,Curitiba,Eletrônicos,Monitor,6.0,975.84,Dinheiro,Concluída
+10045,Lucas,Belo Horizonte,Livros,Tecnologia,1.0,94.4,Dinheiro,Concluída
+10046,Ana,Rio de Janeiro,Livros,Biografia,4.0,76.24,Boleto,Concluída
+10047,Karen,Rio de Janeiro,Esportes,Bola,6.0,136.78,Boleto,Pendente
+10048,Lucas,Salvador,Esportes,Raquete,4.0,325.63,Cartão,Concluída
+10049,Valentina,Belo Horizonte,Roupas,Vestido,2.0,202.35,Boleto,Concluída
+10050,Olivia,São Paulo,Livros,Biografia,6.0,73.03,pix,Concluída
+10051,Amanda,,Eletrônicos,Monitor,7.0,1084.79,Cartão,Concluída
+10052,Valentina,Brasília,livros,Ficção,6.0,57.3,Cartão,Concluída
+10053,Valentina,Brasília,Roupas,Camiseta,2.0,75.45,Cartão,Pendente
+10054,Gabriela,Curitiba,Casa,Liquidificador,2.0,224.02,Cartão,Concluída
+10055,Elisa,Curitiba,,Bola,2.0,103.92,Boleto,Concluída
+10056,Henrique,Salvador,Livros,Tecnologia,6.0,90.12,Dinheiro,Cancelada
+10057,Elisa,rio de janeiro,casa,Liquidificador,4.0,230.26,Cartão,Concluída
+10058,Bruno,Brasília,Livros,Administração,2.0,81.78,Boleto,Concluída
+10059,Bruno,Porto Alegre,Eletrônicos,Teclado,1.0,202.94,Cartão,Cancelada
+10060,Eduardo,Porto Alegre,Livros,Biografia,2.0,81.8,Dinheiro,Concluída
+10061,Diego,Belo Horizonte,Esportes,Halteres,6.0,252.71,Boleto,Cancelada
+10062,João,Rio de Janeiro,Livros,Administração,6.0,88.56,PIX,Concluída
+10063,Karen,Belo Horizonte,Casa,Cafeteira,2.0,321.92,PIX,Concluída
+10064,João,Rio de Janeiro,Esportes,Bicicleta,4.0,1583.58,PIX,Pendente
+10065,Lucas,Curitiba,Esportes,Raquete,6.0,284.55,Boleto,Cancelada
+10066,Valentina,Salvador,Casa,Aspirador,2.0,605.89,Boleto,Concluída
+10067,Elisa,Curitiba,Eletrônicos,Monitor,1.0,1164.28,Dinheiro,Concluída
+10068,Carla,Porto Alegre,livros,Ficção,5.0,69.4,Cartão,Pendente
+10069,Eduardo,Belo Horizonte,Esportes,Bola,7.0,130.83,Boleto,Cancelada
+10070,Daniela,Salvador,Livros,Ficção,7.0,60.19,Boleto,Concluída
+10071,Elisa,São Paulo,Casa,Aspirador,2.0,611.69,Boleto,Concluída
+10072,Thiago,Curitiba,Esportes,Mochila Esportiva,6.0,196.16,PIX,Concluída
+10073,Carla,Salvador,Eletrônicos,Teclado,6.0,159.32,Cartão,Concluída
+10074,Thiago,Salvador,Esportes,Mochila Esportiva,7.0,189.25,PIX,Pendente
+10075,Gabriela,Curitiba,Livros,Ficção,5.0,62.35,PIX,Concluída
+10076,Daniela,Salvador,Livros,Romance,1.0,58.88,pix,Concluída
+10077,Daniela,Porto Alegre,Eletrônicos,Fone Bluetooth,7.0,303.55,PIX,Concluída
+10078,Sofia,Belo Horizonte,Esportes,Raquete,1.0,340.61,Cartão,Cancelada
+10079,Carla,São Paulo,Livros,Ficção,1.0,66.72,Boleto,Concluída
+10080,Valentina,Brasília,Eletrônicos,Fone Bluetooth,6.0,262.81,PIX,Concluída
+10081,Daniela,Curitiba,Eletrônicos,Smartphone,4.0,2385.65,Cartão,Pendente
+10082,Gabriela,São Paulo,Eletrônicos,Teclado,5.0,198.19,Cartão,Pendente
+10083,Pedro,Porto Alegre,Eletrônicos,Monitor,1.0,964.85,Dinheiro,Concluída
+10084,Diego,Salvador,Roupas,Calça Jeans,4.0,194.95,Cartão,Pendente
+10085,Ana,Rio de Janeiro,Roupas,Jaqueta,7.0,238.46,Cartão,Concluída
+10086,Felipe,Rio de Janeiro,Livros,Biografia,7.0,82.86,Cartão,Cancelada
+10087,Thiago,Salvador,Livros,Biografia,1.0,79.46,Dinheiro,Concluída
+10088,Carla,Curitiba,Casa,Panela,1.0,180.24,Boleto,Concluída
+10089,Diego,São Paulo,Eletrônicos,Teclado,4.0,192.67,Cartão,Concluída
+10090,Eduardo,curitiba,Eletrônicos,Monitor,4.0,1136.81,Cartão,Concluída
+10091,Caio,Belo Horizonte,Eletrônicos,Notebook,-1.0,3720.06,Cartão,Concluída
+10092,Eduardo,Curitiba,Esportes,Bola,3.0,118.51,Dinheiro,Concluída
+10093,Diego,Curitiba,Livros,Administração,4.0,96.37,PIX,Concluída
+10094,Pedro,Rio de Janeiro,Casa,Aspirador,2.0,679.31,cartão,Concluída
+10095,Lucas,Brasília,Esportes,Mochila Esportiva,7.0,159.44,Cartão,Concluída
+10096,Karen,Belo Horizonte,Eletrônicos,Smartphone,-3.0,2273.25,Boleto,Concluída
+10097,Felipe,Porto Alegre,Eletrônicos,Fone Bluetooth,6.0,287.42,PIX,Concluída
+10098,Lucas,São Paulo,Roupas,Tênis,4.0,293.66,Boleto,Concluída
+10099,Pedro,Porto Alegre,Casa,Aspirador,4.0,627.44,PIX,Cancelada
+10100,Karen,Curitiba,Roupas,Tênis,2.0,332.1,PIX,Concluída
+10101,Caio,Salvador,Livros,Ficção,4.0,73.21,boleto,Concluída
+10102,Henrique,Belo Horizonte,Roupas,Jaqueta,2.0,308.34,PIX,Concluída
+10103,Amanda,São Paulo,Eletrônicos,Notebook,7.0,3033.35,PIX,Concluída
+10104,Henrique,Brasília,Casa,Liquidificador,6.0,268.2,Cartão,Cancelada
+10105,Isabela,Rio de Janeiro,Esportes,Raquete,3.0,268.83,Boleto,Concluída
+10106,Eduardo,Curitiba,Casa,Panela,,206.76,Dinheiro,Concluída
+10107,Rafael,Brasília,Esportes,Halteres,2.0,241.59,Boleto,Concluída
+10108,Marina,Porto Alegre,Esportes,Bicicleta,6.0,1348.69,Cartão,Cancelada
+10109,Nicolas,Salvador,Livros,Biografia,7.0,82.63,Dinheiro,Concluída
+10110,João,Salvador,Casa,Cafeteira,6.0,305.91,Dinheiro,Concluída
+10111,Diego,Rio de Janeiro,Casa,Cafeteira,7.0,,Dinheiro,Concluída
+10112,Henrique,Brasília,Esportes,Bicicleta,2.0,1495.59,Boleto,Concluída
+10113,Felipe,Salvador,Eletrônicos,Notebook,2.0,3860.77,Boleto,Concluída
+10114,Thiago,Salvador,Casa,Aspirador,6.0,0.0,PIX,Concluída
+10115,Amanda,Curitiba,Livros,Tecnologia,7.0,89.53,Dinheiro,Cancelada
+10116,Caio,São Paulo,Roupas,Tênis,4.0,0.0,Dinheiro,Concluída
+10117,Marina,são paulo,Casa,Cafeteira,6.0,308.52,pix,Pendente
+10118,Elisa,Belo Horizonte,Esportes,Halteres,3.0,237.91,Cartão,Concluída
+10119,Karen,São Paulo,Esportes,Raquete,5.0,282.68,Boleto,Concluída
+10120,Rafael,porto alegre,Casa,Panela,2.0,187.22,Dinheiro,Concluída
+10121,Thiago,Curitiba,Livros,Administração,7.0,95.28,Boleto,Pendente
+10122,Amanda,Curitiba,Esportes,Halteres,4.0,221.06,Boleto,Concluída
+10123,Pedro,São Paulo,Esportes,Mochila Esportiva,7.0,205.37,Dinheiro,Concluída
+10124,Sofia,São Paulo,Livros,Ficção,7.0,62.01,Cartão,Concluída
+10125,Lucas,Brasília,Casa,Aspirador,7.0,687.4,PIX,Pendente
+10126,Valentina,Rio de Janeiro,Roupas,Tênis,,280.14,Boleto,Cancelada
+10127,Valentina,São Paulo,Roupas,Vestido,4.0,189.44,PIX,Concluída
+10128,Rafael,Porto Alegre,Roupas,Camiseta,7.0,85.12,Dinheiro,Cancelada
+10129,Valentina,brasília,Esportes,Halteres,3.0,216.17,Cartão,Concluída
+10130,Ana,Rio de Janeiro,Roupas,Vestido,4.0,220.97,Boleto,Concluída
+10131,Caio,Rio de Janeiro,Esportes,Mochila Esportiva,5.0,189.27,Cartão,Cancelada
+10132,Amanda,Porto Alegre,casa,Panela,6.0,169.14,boleto,Concluída
+10133,Caio,Porto Alegre,Eletrônicos,Smartphone,4.0,1993.81,Cartão,Concluída
+10134,Valentina,Porto Alegre,casa,Aspirador,3.0,689.77,PIX,Concluída
+10135,Nicolas,Salvador,Casa,Liquidificador,1.0,287.32,Boleto,Concluída
+10136,Caio,Belo Horizonte,Eletrônicos,Smartphone,4.0,2197.96,Cartão,Concluída
+10137,Elisa,Belo Horizonte,Eletrônicos,Notebook,3.0,2993.55,PIX,Concluída
+10138,Karen,brasília,Livros,Tecnologia,4.0,102.4,Dinheiro,Concluída
+10139,Caio,Curitiba,Livros,Tecnologia,3.0,82.85,PIX,Pendente
+10140,Sofia,Porto Alegre,Roupas,Tênis,7.0,328.71,Boleto,Concluída
+10141,Henrique,Belo Horizonte,,Tecnologia,3.0,80.7,Dinheiro,Concluída
+10142,Valentina,Porto Alegre,eletrônicos,Fone Bluetooth,2.0,303.84,PIX,Concluída
+10143,Rafael,Porto Alegre,Livros,Biografia,5.0,82.08,Dinheiro,Cancelada
+10144,Nicolas,belo horizonte,Casa,Liquidificador,2.0,220.14,Boleto,Pendente
+10145,Karen,,Esportes,Mochila Esportiva,7.0,154.94,Dinheiro,Concluída
+10146,Felipe,Brasília,Roupas,Camiseta,1.0,69.57,PIX,Concluída
+10147,Bruno,Porto Alegre,Esportes,Bicicleta,1.0,1325.22,PIX,Concluída
+10148,Elisa,Curitiba,,Ficção,4.0,61.14,PIX,Concluída
+10149,Carla,Rio de Janeiro,Eletrônicos,Notebook,3.0,3880.9,Cartão,Concluída
+10150,Henrique,Curitiba,roupas,Tênis,1.0,313.41,Dinheiro,Cancelada
+10151,Henrique,Brasília,Casa,Panela,2.0,166.09,PIX,Concluída
+10152,Henrique,Curitiba,Roupas,Calça Jeans,6.0,203.24,Cartão,Concluída
+10153,Diego,Belo Horizonte,Livros,Ficção,2.0,56.17,cartão,Pendente
+10154,Elisa,Rio de Janeiro,Eletrônicos,Notebook,7.0,3007.85,Cartão,Concluída
+10155,Nicolas,Porto Alegre,Casa,Panela,1.0,184.87,Dinheiro,Concluída
+10156,Olivia,Brasília,Roupas,Vestido,4.0,197.74,dinheiro,Cancelada
+10157,Daniela,Brasília,Roupas,Calça Jeans,2.0,177.54,Boleto,Pendente
+10158,Valentina,Curitiba,Eletrônicos,Smartphone,6.0,2080.14,Dinheiro,Concluída
+10159,João,Salvador,roupas,Calça Jeans,4.0,170.15,,Concluída
+10160,Ana,Porto Alegre,Esportes,Bicicleta,3.0,1349.47,Boleto,Concluída
+10161,Henrique,rio de janeiro,Roupas,Jaqueta,6.0,312.76,Boleto,Concluída
+10162,Rafael,Salvador,Esportes,Bola,5.0,108.23,Boleto,Pendente
+10163,Ana,Porto Alegre,Roupas,Camiseta,7.0,91.83,Boleto,Concluída
+10164,Caio,Rio de Janeiro,Casa,Jogo de Cama,1.0,222.39,Boleto,Concluída
+10165,Olivia,Belo Horizonte,,Bola,4.0,0.0,Boleto,Cancelada
+10166,Olivia,Salvador,Eletrônicos,Notebook,1.0,3217.84,Dinheiro,Concluída
+10167,Nicolas,,Esportes,Halteres,2.0,242.21,Boleto,Concluída
+10168,Thiago,Rio de Janeiro,Esportes,Mochila Esportiva,2.0,206.1,PIX,Concluída
+10169,Valentina,Belo Horizonte,Livros,Romance,1.0,60.36,PIX,Concluída
+10170,João,Curitiba,Esportes,Raquete,5.0,316.43,Cartão,Pendente
+10171,Elisa,Brasília,Roupas,Camiseta,5.0,88.62,Dinheiro,Concluída
+10172,Sofia,Porto Alegre,Roupas,Tênis,7.0,356.32,PIX,Concluída
+10173,Sofia,Brasília,Eletrônicos,Monitor,5.0,1193.38,Boleto,Concluída
+10174,Amanda,Curitiba,Esportes,Raquete,5.0,326.83,Cartão,Concluída
+10175,Ana,Brasília,Casa,Aspirador,4.0,686.26,PIX,Concluída
+10176,João,Belo Horizonte,Livros,Biografia,5.0,70.93,Boleto,Concluída
+10177,Olivia,Curitiba,Roupas,Tênis,1.0,361.8,PIX,Concluída
+10178,João,Belo Horizonte,Roupas,Calça Jeans,3.0,160.08,Cartão,Concluída
+10179,Daniela,Rio de Janeiro,Eletrônicos,Smartphone,1.0,2030.77,Cartão,Concluída
+10180,Gabriela,Brasília,Casa,Jogo de Cama,3.0,200.34,Cartão,Concluída
+10181,Gabriela,São Paulo,Eletrônicos,Fone Bluetooth,4.0,,PIX,Pendente
+10182,Lucas,Rio de Janeiro,roupas,Jaqueta,5.0,247.3,PIX,Concluída
+10183,Caio,São Paulo,Roupas,Jaqueta,3.0,313.74,Dinheiro,Pendente
+10184,Bruno,Brasília,Roupas,Vestido,5.0,196.09,PIX,Concluída
+10185,Amanda,Belo Horizonte,Casa,Liquidificador,6.0,258.76,Boleto,Concluída
+10186,Diego,Belo Horizonte,Eletrônicos,Smartphone,4.0,2432.28,Boleto,Concluída
+10187,Isabela,São Paulo,Esportes,Bicicleta,6.0,1457.18,Dinheiro,Concluída
+10188,Daniela,Rio de Janeiro,Eletrônicos,Smartphone,5.0,1949.63,Dinheiro,Concluída
+10189,Amanda,Porto Alegre,Roupas,Calça Jeans,2.0,162.69,pix,Concluída
+10190,Sofia,Porto Alegre,Eletrônicos,Smartphone,7.0,2431.88,Dinheiro,Concluída
+10191,Felipe,Belo Horizonte,Casa,Cafeteira,6.0,323.2,Cartão,Pendente
+10192,Thiago,Rio de Janeiro,Eletrônicos,Teclado,1.0,180.95,PIX,Concluída
+10193,Karen,Belo Horizonte,Roupas,Tênis,6.0,284.65,Cartão,Pendente
+10194,Daniela,Belo Horizonte,Eletrônicos,Fone Bluetooth,6.0,251.74,Boleto,Concluída
+10195,Ana,Rio de Janeiro,,Smartphone,7.0,1948.51,Dinheiro,Concluída
+10196,Lucas,Curitiba,Livros,Ficção,1.0,63.06,Boleto,Concluída
+10197,Valentina,Belo Horizonte,Livros,Biografia,1.0,80.44,PIX,Concluída
+10198,Isabela,Brasília,livros,Biografia,5.0,64.88,PIX,Cancelada
+10199,Thiago,Salvador,Esportes,Halteres,1.0,272.02,Cartão,Pendente
+10200,Pedro,Curitiba,Casa,Cafeteira,3.0,297.74,Dinheiro,Concluída
+10201,Karen,Curitiba,Livros,Romance,3.0,53.32,Cartão,Concluída
+10202,Daniela,Belo Horizonte,Casa,Panela,2.0,170.23,Boleto,Concluída
+10203,Olivia,Porto Alegre,Roupas,Jaqueta,5.0,277.71,Dinheiro,Concluída
+10204,Rafael,Porto Alegre,Casa,Liquidificador,1.0,275.95,Cartão,Concluída
+10205,Sofia,Curitiba,Roupas,Vestido,6.0,252.46,Boleto,Concluída
+10206,Daniela,Salvador,Eletrônicos,Smartphone,3.0,2111.78,Boleto,Concluída
+10207,Sofia,Salvador,Livros,Administração,2.0,85.23,Dinheiro,Concluída
+10208,Isabela,Curitiba,Eletrônicos,Monitor,3.0,1069.69,PIX,Concluída
+10209,Rafael,Salvador,Livros,Romance,3.0,62.8,Boleto,Concluída
+10210,Elisa,Brasília,Livros,Tecnologia,6.0,97.51,Dinheiro,Concluída
+10211,Diego,Salvador,Livros,Ficção,2.0,60.62,Cartão,Concluída
+10212,Caio,Brasília,Roupas,Jaqueta,7.0,255.01,Boleto,Concluída
+10213,Olivia,Belo Horizonte,Esportes,Raquete,5.0,277.96,Boleto,Concluída
+10214,João,Curitiba,Esportes,Raquete,4.0,316.69,Cartão,Concluída
+10215,Olivia,Rio de Janeiro,Esportes,Raquete,7.0,294.95,Dinheiro,Cancelada
+10216,Nicolas,Curitiba,Roupas,Calça Jeans,6.0,179.45,Boleto,Concluída
+10217,Caio,Belo Horizonte,Livros,Tecnologia,3.0,101.44,Dinheiro,Pendente
+10218,Thiago,São Paulo,Eletrônicos,Monitor,7.0,1186.65,PIX,Concluída
+10219,Pedro,Belo Horizonte,Esportes,Bicicleta,5.0,1405.19,PIX,Concluída
+10220,Felipe,Belo Horizonte,Roupas,Tênis,3.0,350.34,Dinheiro,Concluída
+10221,Isabela,São Paulo,Roupas,Camiseta,1.0,87.14,Dinheiro,Concluída
+10222,Carla,Curitiba,Esportes,Halteres,5.0,241.75,Dinheiro,Concluída
+10223,Karen,Brasília,Livros,Romance,1.0,62.15,Dinheiro,Pendente
+10224,Diego,Rio de Janeiro,Esportes,Bola,7.0,130.47,PIX,Pendente
+10225,Carla,Porto Alegre,Roupas,Jaqueta,4.0,307.93,Cartão,Concluída
+10226,Marina,Salvador,Casa,Cafeteira,2.0,369.55,Boleto,Pendente
+10227,Marina,Porto Alegre,Eletrônicos,Teclado,1.0,158.14,,Pendente
+10228,Lucas,Rio de Janeiro,Roupas,Calça Jeans,3.0,175.94,Cartão,Concluída
+10229,Thiago,Brasília,Esportes,Bicicleta,3.0,1649.45,Dinheiro,Concluída
+10230,Sofia,Rio de Janeiro,Roupas,Calça Jeans,2.0,196.28,pix,Pendente
+10231,Caio,Belo Horizonte,Roupas,Camiseta,4.0,70.31,,Concluída
+10232,Bruno,São Paulo,Roupas,Camiseta,,68.01,PIX,Concluída
+10233,Pedro,Belo Horizonte,Eletrônicos,Notebook,3.0,3839.28,Cartão,Concluída
+10234,Valentina,Curitiba,Eletrônicos,Teclado,2.0,182.1,Dinheiro,Concluída
+10235,Sofia,Belo Horizonte,Casa,Panela,4.0,166.9,Dinheiro,Concluída
+10236,Lucas,Belo Horizonte,Casa,Aspirador,6.0,576.22,Cartão,Concluída
+10237,Carla,,Esportes,Halteres,7.0,218.95,Cartão,Concluída
+10238,João,Salvador,Eletrônicos,Teclado,1.0,206.48,Cartão,Concluída
+10239,João,Brasília,Eletrônicos,Fone Bluetooth,7.0,311.51,Dinheiro,Cancelada
+10240,Felipe,Brasília,,Liquidificador,5.0,261.71,PIX,Concluída
+10241,Nicolas,Belo Horizonte,Eletrônicos,Fone Bluetooth,6.0,307.6,Boleto,Concluída
+10242,Olivia,Porto Alegre,Casa,Liquidificador,7.0,248.96,PIX,Concluída
+10243,Valentina,Rio de Janeiro,Roupas,Jaqueta,1.0,285.14,PIX,Concluída
+10244,Henrique,Porto Alegre,Eletrônicos,Fone Bluetooth,2.0,285.38,Boleto,Concluída
+10245,Felipe,Salvador,Roupas,Camiseta,1.0,89.47,Boleto,Concluída
+10246,Lucas,Salvador,Livros,Biografia,1.0,74.46,Dinheiro,Concluída
+10247,Olivia,Belo Horizonte,Roupas,Calça Jeans,4.0,163.56,Boleto,Concluída
+10248,Elisa,Curitiba,Livros,Romance,3.0,58.61,Cartão,Concluída
+10249,Henrique,Rio de Janeiro,Esportes,Raquete,2.0,287.47,Cartão,Concluída
+10250,Olivia,Salvador,Roupas,Calça Jeans,7.0,164.09,Dinheiro,Pendente
+10251,Carla,Curitiba,Esportes,Bola,6.0,106.15,Boleto,Concluída
+10252,Thiago,Porto Alegre,Eletrônicos,Teclado,7.0,197.27,Boleto,Pendente
+10253,João,Curitiba,Casa,Liquidificador,2.0,236.8,Dinheiro,Concluída
+10254,Elisa,Belo Horizonte,Livros,Biografia,7.0,85.77,PIX,Concluída
+10255,João,Salvador,Roupas,Vestido,7.0,213.24,Boleto,Concluída
+10256,Elisa,Salvador,Esportes,Bicicleta,2.0,1321.48,Dinheiro,Concluída
+10257,João,Salvador,Casa,Panela,5.0,176.3,Boleto,Pendente
+10258,João,Rio de Janeiro,Livros,Biografia,6.0,71.16,PIX,Concluída
+10259,Pedro,Belo Horizonte,Roupas,Tênis,3.0,325.22,PIX,Concluída
+10260,Carla,Curitiba,Eletrônicos,Smartphone,4.0,1979.6,Boleto,Concluída
+10261,Nicolas,Curitiba,,Tecnologia,6.0,96.9,PIX,Cancelada
+10262,Olivia,Brasília,Livros,Biografia,2.0,78.8,Cartão,Pendente
+10263,Daniela,Brasília,Livros,Tecnologia,1.0,92.13,Cartão,Concluída
+10264,Nicolas,Belo Horizonte,Livros,Ficção,7.0,55.77,Boleto,Cancelada
+10265,Lucas,Curitiba,Roupas,Tênis,,272.53,Dinheiro,Concluída
+10266,Isabela,são paulo,Livros,Biografia,7.0,76.46,PIX,Concluída
+10267,Lucas,Rio de Janeiro,Casa,Aspirador,,606.57,Dinheiro,Pendente
+10268,Elisa,Brasília,Esportes,Raquete,6.0,308.48,Dinheiro,Concluída
+10269,Valentina,Rio de Janeiro,Eletrônicos,Notebook,-3.0,3480.85,Boleto,Pendente
+10270,Karen,São Paulo,Esportes,Halteres,7.0,240.25,PIX,Concluída
+10271,Amanda,Porto Alegre,Livros,Ficção,2.0,60.8,PIX,Cancelada
+10272,Marina,curitiba,Eletrônicos,Notebook,7.0,3461.86,boleto,Concluída
+10273,João,São Paulo,Esportes,Halteres,1.0,258.9,Cartão,Concluída
+10274,Felipe,Porto Alegre,Livros,Administração,7.0,75.81,Cartão,Concluída
+10275,Daniela,Rio de Janeiro,Eletrônicos,Notebook,4.0,3400.24,Dinheiro,Pendente
+10276,Pedro,,Roupas,Camiseta,5.0,88.91,Boleto,Concluída
+10277,Ana,Belo Horizonte,Eletrônicos,Fone Bluetooth,3.0,282.91,Dinheiro,Pendente
+10278,Rafael,Curitiba,Esportes,Bola,2.0,112.86,Dinheiro,Concluída
+10279,Amanda,Rio de Janeiro,Roupas,Vestido,6.0,194.76,Cartão,Cancelada
+10280,Marina,Brasília,Livros,Romance,6.0,67.48,Boleto,Concluída
+10281,Bruno,Belo Horizonte,Esportes,Mochila Esportiva,7.0,205.31,PIX,Concluída
+10282,Eduardo,Porto Alegre,Casa,Panela,2.0,158.09,,Concluída
+10283,Eduardo,belo horizonte,Casa,Jogo de Cama,1.0,242.58,Dinheiro,Concluída
+10284,Nicolas,Brasília,Livros,Ficção,-2.0,65.85,Dinheiro,Pendente
+10285,Lucas,Brasília,Casa,Aspirador,6.0,592.15,PIX,Concluída
+10286,Carla,Curitiba,Eletrônicos,Smartphone,1.0,1921.11,Dinheiro,Concluída
+10287,Olivia,Belo Horizonte,Eletrônicos,Teclado,6.0,154.9,Cartão,Concluída
+10288,Felipe,Porto Alegre,Roupas,Vestido,6.0,221.04,Dinheiro,Pendente
+10289,Bruno,Brasília,Eletrônicos,Smartphone,4.0,1971.38,Cartão,Concluída
+10290,Caio,Porto Alegre,Eletrônicos,Fone Bluetooth,3.0,283.13,Boleto,Concluída
+10291,Olivia,Porto Alegre,Casa,Jogo de Cama,7.0,244.03,Dinheiro,Concluída
+10292,Felipe,porto alegre,Eletrônicos,Notebook,4.0,3434.73,Dinheiro,Concluída
+10293,Marina,Porto Alegre,Roupas,Jaqueta,1.0,253.36,PIX,Concluída
+10294,Karen,Salvador,Eletrônicos,Monitor,2.0,1010.45,Boleto,Concluída
+10295,Elisa,Porto Alegre,Esportes,Raquete,6.0,264.66,PIX,Concluída
+10296,Karen,São Paulo,Eletrônicos,Fone Bluetooth,7.0,321.56,PIX,Concluída
+10297,Bruno,Rio de Janeiro,Livros,Administração,7.0,87.37,Cartão,Concluída
+10298,Eduardo,Curitiba,Esportes,Bola,5.0,118.88,Dinheiro,Concluída
+10299,Valentina,Salvador,Esportes,Bola,6.0,125.33,Dinheiro,Concluída
+10300,Amanda,Belo Horizonte,Casa,Aspirador,2.0,623.59,PIX,Concluída
+10301,Eduardo,porto alegre,Esportes,Halteres,7.0,240.32,PIX,Cancelada
+10302,Sofia,Curitiba,Roupas,Tênis,1.0,316.13,Cartão,Concluída
+10303,Elisa,São Paulo,Roupas,Camiseta,3.0,83.04,Boleto,Pendente
+10304,Carla,Salvador,Esportes,Bicicleta,4.0,1705.22,Cartão,Concluída
+10305,Marina,Salvador,Roupas,Calça Jeans,3.0,200.67,Dinheiro,Concluída
+10306,Isabela,Salvador,Livros,Romance,6.0,59.61,Cartão,Concluída
+10307,Diego,Salvador,Roupas,Calça Jeans,3.0,182.71,Boleto,Concluída
+10308,Thiago,São Paulo,Casa,Cafeteira,2.0,376.04,Dinheiro,Concluída
+10309,Felipe,Rio de Janeiro,Casa,Jogo de Cama,2.0,210.81,Cartão,Concluída
+10310,Felipe,Rio de Janeiro,Roupas,Calça Jeans,6.0,193.6,PIX,Concluída
+10311,Karen,Brasília,Roupas,Camiseta,1.0,75.27,PIX,Concluída
+10312,Daniela,Porto Alegre,Casa,Aspirador,1.0,599.63,Boleto,Cancelada
+10313,Olivia,Salvador,Esportes,Raquete,4.0,335.08,Dinheiro,Cancelada
+10314,Bruno,Porto Alegre,Roupas,Tênis,6.0,273.52,PIX,Concluída
+10315,Nicolas,Porto Alegre,Casa,Cafeteira,4.0,355.48,Dinheiro,Concluída
+10316,Valentina,Salvador,Esportes,Bicicleta,2.0,1656.53,Dinheiro,Cancelada
+10317,Henrique,Salvador,Eletrônicos,Teclado,2.0,174.69,PIX,Concluída
+10318,Isabela,Porto Alegre,Esportes,Raquete,4.0,305.13,PIX,Concluída
+10319,Bruno,Salvador,Roupas,Camiseta,6.0,90.78,PIX,Cancelada
+10320,Elisa,Rio de Janeiro,Eletrônicos,Monitor,5.0,992.9,Dinheiro,Concluída
+10321,Diego,,Livros,Biografia,6.0,79.0,Dinheiro,Concluída
+10322,Eduardo,São Paulo,Livros,Tecnologia,3.0,83.64,PIX,Concluída
+10323,Thiago,Porto Alegre,Esportes,Bicicleta,6.0,1622.33,PIX,Cancelada
+10324,Ana,Belo Horizonte,Livros,Tecnologia,5.0,91.92,Dinheiro,Concluída
+10325,Marina,Salvador,Roupas,Calça Jeans,7.0,196.74,Cartão,Concluída
+10326,Isabela,Rio de Janeiro,Roupas,Jaqueta,2.0,0.0,Cartão,Concluída
+10327,Amanda,Salvador,Casa,Cafeteira,6.0,364.94,Boleto,Pendente
+10328,João,São Paulo,Eletrônicos,Fone Bluetooth,5.0,315.56,Cartão,Concluída
+10329,Carla,São Paulo,Eletrônicos,Monitor,7.0,1089.52,Cartão,Concluída
+10330,Gabriela,Rio de Janeiro,Casa,Cafeteira,2.0,381.09,Dinheiro,Cancelada
+10331,Gabriela,Rio de Janeiro,Esportes,Bicicleta,5.0,1389.63,Cartão,Pendente
+10332,Felipe,Porto Alegre,Casa,Cafeteira,7.0,386.4,PIX,Concluída
+10333,Pedro,Rio de Janeiro,Eletrônicos,Notebook,6.0,3797.05,Cartão,Pendente
+10334,Amanda,Curitiba,Esportes,Raquete,2.0,275.49,Cartão,Cancelada
+10335,Olivia,Porto Alegre,Casa,Panela,1.0,194.04,Cartão,Cancelada
+10336,Sofia,São Paulo,Eletrônicos,Teclado,1.0,176.83,Dinheiro,Concluída
+10337,Valentina,Porto Alegre,Livros,Ficção,1.0,69.86,PIX,Concluída
+10338,Marina,Curitiba,Livros,Tecnologia,3.0,90.14,Boleto,Concluída
+10339,Caio,Salvador,Livros,Ficção,7.0,60.06,Boleto,Concluída
+10340,Elisa,Curitiba,Roupas,Tênis,6.0,348.34,Dinheiro,Concluída
+10341,Eduardo,Belo Horizonte,Livros,Biografia,2.0,71.67,Boleto,Concluída
+10342,Carla,Porto Alegre,Eletrônicos,Teclado,2.0,175.27,Dinheiro,Concluída
+10343,João,Curitiba,Casa,Aspirador,5.0,686.4,Dinheiro,Concluída
+10344,Isabela,Belo Horizonte,Roupas,Jaqueta,2.0,288.93,Boleto,Cancelada
+10345,Felipe,Belo Horizonte,Livros,Romance,4.0,63.81,Boleto,Concluída
+10346,Isabela,Salvador,Casa,Liquidificador,4.0,277.38,Cartão,Concluída
+10347,Bruno,Curitiba,Casa,Jogo de Cama,7.0,,PIX,Cancelada
+10348,Caio,Curitiba,,Jaqueta,6.0,256.14,Boleto,Concluída
+10349,Felipe,Belo Horizonte,Esportes,Bicicleta,6.0,1287.23,Dinheiro,Concluída
+10350,Sofia,,Eletrônicos,Monitor,3.0,1110.43,PIX,Concluída
+10351,Elisa,Salvador,Eletrônicos,Monitor,3.0,1228.06,Dinheiro,Concluída
+10352,Diego,Rio de Janeiro,Livros,Administração,1.0,97.04,Dinheiro,Pendente
+10353,Elisa,São Paulo,Livros,Tecnologia,6.0,82.22,Cartão,Concluída
+10354,Eduardo,,Roupas,Camiseta,-1.0,69.78,Cartão,Cancelada
+10355,Thiago,Belo Horizonte,Esportes,Mochila Esportiva,1.0,187.07,Dinheiro,Concluída
+10356,Sofia,porto alegre,Casa,Cafeteira,7.0,344.48,PIX,Concluída
+10357,Valentina,Belo Horizonte,Eletrônicos,Notebook,3.0,3248.74,Cartão,Concluída
+10358,Henrique,porto alegre,Esportes,Raquete,5.0,316.74,Dinheiro,Concluída
+10359,Henrique,Curitiba,Livros,Ficção,2.0,59.47,Boleto,Pendente
+10360,Nicolas,Belo Horizonte,eletrônicos,Smartphone,7.0,2061.29,,Concluída
+10361,Olivia,belo horizonte,Casa,Aspirador,2.0,534.31,Boleto,Concluída
+10362,Bruno,São Paulo,Casa,Aspirador,5.0,590.43,PIX,Concluída
+10363,Karen,,Livros,Tecnologia,3.0,96.56,Cartão,Cancelada
+10364,Thiago,Curitiba,Casa,Cafeteira,1.0,347.12,PIX,Concluída
+10365,Lucas,porto alegre,Esportes,Raquete,7.0,302.58,Boleto,Concluída
+10366,Marina,Curitiba,Eletrônicos,Notebook,3.0,3480.67,dinheiro,Concluída
+10367,Eduardo,Porto Alegre,Casa,Cafeteira,7.0,344.81,Cartão,Concluída
+10368,Ana,Belo Horizonte,Eletrônicos,Notebook,5.0,,Dinheiro,Concluída
+10369,Nicolas,São Paulo,Esportes,Bola,2.0,107.55,Dinheiro,Concluída
+10370,Henrique,Belo Horizonte,Casa,Aspirador,2.0,625.48,PIX,Concluída
+10371,Caio,Rio de Janeiro,Eletrônicos,Smartphone,2.0,2200.14,Dinheiro,Cancelada
+10372,Felipe,Belo Horizonte,Roupas,Vestido,6.0,205.93,PIX,Concluída
+10373,Eduardo,São Paulo,Esportes,Mochila Esportiva,6.0,206.48,Boleto,Concluída
+10374,Daniela,Belo Horizonte,Esportes,Raquete,3.0,273.35,Boleto,Cancelada
+10375,Karen,Curitiba,Roupas,Calça Jeans,7.0,206.22,Dinheiro,Pendente
+10376,Gabriela,Porto Alegre,Casa,Aspirador,7.0,567.75,Boleto,Concluída
+10377,Pedro,,Eletrônicos,Fone Bluetooth,5.0,272.3,Boleto,Concluída
+10378,Diego,curitiba,Casa,Panela,4.0,163.19,Dinheiro,Concluída
+10379,Thiago,Rio de Janeiro,Eletrônicos,Smartphone,-3.0,2235.63,Cartão,Concluída
+10380,Pedro,Porto Alegre,Eletrônicos,Notebook,2.0,3263.78,Cartão,Concluída
+10381,Ana,São Paulo,Livros,Administração,6.0,93.89,Cartão,Concluída
+10382,Karen,Curitiba,Roupas,Tênis,5.0,278.89,Dinheiro,Pendente
+10383,Elisa,Belo Horizonte,Eletrônicos,Notebook,4.0,3924.1,,Concluída
+10384,Pedro,Rio de Janeiro,Livros,Tecnologia,6.0,96.07,Boleto,Pendente
+10385,Henrique,Salvador,livros,Administração,4.0,84.42,PIX,Concluída
+10386,Isabela,Belo Horizonte,Esportes,Bola,1.0,127.61,Cartão,Concluída
+10387,Olivia,Curitiba,Casa,Aspirador,2.0,649.8,Dinheiro,Concluída
+10388,Lucas,Porto Alegre,Eletrônicos,Notebook,7.0,3608.58,Cartão,Concluída
+10389,Karen,São Paulo,Livros,Tecnologia,5.0,87.68,Cartão,Cancelada
+10390,Elisa,Curitiba,Casa,Jogo de Cama,-1.0,248.35,Cartão,Pendente
+10391,Ana,Salvador,Casa,Jogo de Cama,4.0,237.36,Dinheiro,Pendente
+10392,Nicolas,São Paulo,Roupas,Vestido,2.0,192.16,Dinheiro,Concluída
+10393,Karen,,Livros,Ficção,4.0,66.4,Cartão,Concluída
+10394,Sofia,Curitiba,Esportes,Bola,5.0,132.56,PIX,Concluída
+10395,Eduardo,São Paulo,casa,Panela,7.0,192.59,PIX,Concluída
+10396,Lucas,Curitiba,Roupas,Calça Jeans,6.0,203.9,Boleto,Concluída
+10397,João,Salvador,Livros,Biografia,5.0,82.91,Cartão,Concluída
+10398,Gabriela,Porto Alegre,Casa,Jogo de Cama,1.0,232.73,Dinheiro,Concluída
+10399,Rafael,Belo Horizonte,Casa,Liquidificador,5.0,237.98,Cartão,Concluída
+10400,Gabriela,São Paulo,Esportes,Halteres,1.0,237.63,Dinheiro,Concluída
+10401,Karen,Rio de Janeiro,Roupas,Vestido,1.0,249.9,Boleto,Concluída
+10402,Lucas,Rio de Janeiro,Roupas,Vestido,5.0,196.35,Cartão,Concluída
+10403,Gabriela,Rio de Janeiro,Eletrônicos,Notebook,4.0,3121.78,PIX,Concluída
+10404,Gabriela,Porto Alegre,Casa,Cafeteira,2.0,300.86,Boleto,Concluída
+10405,Carla,Curitiba,Roupas,Jaqueta,6.0,239.16,Cartão,Concluída
+10406,Valentina,Salvador,Roupas,Calça Jeans,6.0,173.4,Boleto,Concluída
+10407,Marina,Salvador,Eletrônicos,Notebook,5.0,3337.07,PIX,Concluída
+10408,Daniela,Brasília,Eletrônicos,Monitor,6.0,942.35,Boleto,Concluída
+10409,Thiago,Rio de Janeiro,Livros,Tecnologia,6.0,0.0,Dinheiro,Pendente
+10410,Karen,Curitiba,Esportes,Bola,3.0,121.69,Cartão,Concluída
+10411,Ana,São Paulo,Eletrônicos,Teclado,2.0,177.44,Dinheiro,Concluída
+10412,Eduardo,São Paulo,Eletrônicos,Fone Bluetooth,2.0,277.89,Cartão,Concluída
+10413,Gabriela,São Paulo,Esportes,Raquete,7.0,300.37,Cartão,Concluída
+10414,Marina,Brasília,Eletrônicos,Teclado,6.0,205.44,PIX,Concluída
+10415,Karen,Belo Horizonte,Esportes,Raquete,2.0,280.15,Dinheiro,Concluída
+10416,Eduardo,Porto Alegre,Roupas,Tênis,7.0,289.9,PIX,Concluída
+10417,Elisa,Curitiba,Casa,Panela,4.0,189.72,Cartão,Concluída
+10418,Isabela,Belo Horizonte,Roupas,Calça Jeans,4.0,171.84,Boleto,Concluída
+10419,Amanda,Rio de Janeiro,,Bicicleta,1.0,,Cartão,Pendente
+10420,Ana,Curitiba,Casa,Panela,6.0,179.71,Cartão,Concluída
+10421,Diego,Brasília,Esportes,Halteres,3.0,273.02,Dinheiro,Concluída
+10422,Sofia,Curitiba,Eletrônicos,Monitor,3.0,1262.63,PIX,Concluída
+10423,Marina,Curitiba,Eletrônicos,Fone Bluetooth,6.0,252.94,Boleto,Concluída
+10424,Gabriela,Brasília,Eletrônicos,Teclado,5.0,155.14,cartão,Concluída
+10425,Ana,Rio de Janeiro,Roupas,Calça Jeans,6.0,168.09,Cartão,Concluída
+10426,Isabela,Belo Horizonte,Casa,Panela,7.0,170.71,Cartão,Concluída
+10427,Thiago,Belo Horizonte,Roupas,Calça Jeans,3.0,,Dinheiro,Concluída
+10428,Henrique,São Paulo,Esportes,Mochila Esportiva,7.0,194.79,Dinheiro,Cancelada
+10429,Karen,Porto Alegre,Casa,Jogo de Cama,2.0,237.61,Dinheiro,Concluída
+10430,Carla,Curitiba,Eletrônicos,Teclado,4.0,206.69,Dinheiro,Concluída
+10431,Ana,Salvador,Roupas,Jaqueta,1.0,302.7,Dinheiro,Concluída
+10432,Carla,Brasília,Casa,Jogo de Cama,3.0,205.21,PIX,Concluída
+10433,Gabriela,Salvador,Esportes,Mochila Esportiva,4.0,174.21,PIX,Cancelada
+10434,Caio,Salvador,Eletrônicos,Smartphone,7.0,2151.14,PIX,Concluída
+10435,Gabriela,São Paulo,Eletrônicos,Fone Bluetooth,4.0,280.23,Cartão,Concluída
+10436,João,Brasília,Esportes,Mochila Esportiva,4.0,197.49,PIX,Pendente
+10437,Eduardo,Rio de Janeiro,Eletrônicos,Monitor,4.0,1211.59,Cartão,Concluída
+10438,Valentina,Belo Horizonte,Casa,Liquidificador,2.0,256.31,PIX,Pendente
+10439,Nicolas,Rio de Janeiro,Livros,Romance,3.0,63.98,Cartão,Concluída
+10440,Bruno,Belo Horizonte,Eletrônicos,Teclado,1.0,180.66,PIX,Concluída
+10441,Daniela,Rio de Janeiro,Roupas,Camiseta,3.0,89.47,Cartão,Concluída
+10442,Sofia,Curitiba,Eletrônicos,Fone Bluetooth,3.0,275.18,Cartão,Concluída
+10443,Karen,,Esportes,Raquete,6.0,333.53,PIX,Pendente
+10444,Carla,Porto Alegre,Livros,Romance,7.0,67.73,Dinheiro,Concluída
+10445,Karen,Belo Horizonte,Roupas,Calça Jeans,5.0,175.47,Cartão,Pendente
+10446,Rafael,Porto Alegre,Livros,Tecnologia,4.0,78.31,Cartão,Concluída
+10447,Pedro,Salvador,Eletrônicos,Smartphone,5.0,1932.05,Dinheiro,Concluída
+10448,Diego,Brasília,Casa,Jogo de Cama,,208.13,PIX,Concluída
+10449,Bruno,Curitiba,Casa,Panela,6.0,172.92,PIX,Concluída
+10450,Gabriela,Belo Horizonte,Eletrônicos,Notebook,5.0,3633.3,PIX,Concluída
+10451,Thiago,Belo Horizonte,Esportes,Mochila Esportiva,7.0,173.46,Boleto,Pendente
+10452,Caio,Belo Horizonte,Roupas,Tênis,1.0,348.19,Cartão,Concluída
+10453,Eduardo,São Paulo,Livros,Ficção,4.0,64.19,Cartão,Concluída
+10454,Thiago,São Paulo,Eletrônicos,Notebook,5.0,3508.06,Boleto,Cancelada
+10455,Olivia,Porto Alegre,Casa,Aspirador,7.0,645.82,Dinheiro,Cancelada
+10456,Nicolas,Rio de Janeiro,,Notebook,1.0,3202.08,Dinheiro,Concluída
+10457,Elisa,Porto Alegre,casa,Cafeteira,1.0,333.1,Boleto,Concluída
+10458,Caio,são paulo,Esportes,Bola,4.0,129.51,Cartão,Concluída
+10459,Rafael,Rio de Janeiro,Eletrônicos,Teclado,2.0,185.97,PIX,Concluída
+10460,Sofia,Brasília,Esportes,Bola,1.0,103.55,Cartão,Concluída
+10461,Thiago,Rio de Janeiro,Livros,Biografia,3.0,74.36,PIX,Concluída
+10462,Marina,Belo Horizonte,Eletrônicos,Smartphone,6.0,2154.56,Boleto,Pendente
+10463,Bruno,,Esportes,Raquete,6.0,289.62,Cartão,Concluída
+10464,Elisa,Salvador,Eletrônicos,Smartphone,2.0,2374.29,PIX,Pendente
+10465,Bruno,Salvador,Livros,Romance,7.0,58.26,Cartão,Concluída
+10466,Felipe,São Paulo,Roupas,Vestido,3.0,200.08,Boleto,Concluída
+10467,João,Belo Horizonte,Livros,Administração,2.0,93.33,Cartão,Concluída
+10468,Amanda,Curitiba,Eletrônicos,Monitor,2.0,1056.96,Boleto,Concluída
+10469,Bruno,Brasília,roupas,Camiseta,5.0,85.47,PIX,Concluída
+10470,Amanda,São Paulo,Eletrônicos,Notebook,7.0,3852.31,Cartão,Concluída
+10471,Amanda,Curitiba,Livros,Romance,4.0,55.22,Boleto,Concluída
+10472,Lucas,Brasília,Roupas,Jaqueta,7.0,280.06,Dinheiro,Concluída
+10473,Bruno,São Paulo,Casa,Jogo de Cama,7.0,218.52,Dinheiro,Concluída
+10474,Gabriela,São Paulo,Livros,Ficção,6.0,63.41,,Concluída
+10475,Henrique,Salvador,Roupas,Tênis,3.0,301.33,PIX,Concluída
+10476,Amanda,Porto Alegre,Eletrônicos,Notebook,6.0,3607.23,Cartão,Concluída
+10477,Felipe,Curitiba,Livros,Biografia,1.0,67.14,Cartão,Concluída
+10478,Eduardo,Belo Horizonte,Roupas,Jaqueta,2.0,241.77,Boleto,Concluída
+10479,Thiago,Curitiba,Livros,Administração,3.0,81.41,Cartão,Concluída
+10480,Gabriela,curitiba,Eletrônicos,Teclado,7.0,163.23,Cartão,Concluída
+10481,Valentina,curitiba,Esportes,Mochila Esportiva,2.0,193.67,Dinheiro,Cancelada
+10482,Nicolas,Brasília,Roupas,Calça Jeans,4.0,169.06,PIX,Pendente
+10483,Eduardo,Rio de Janeiro,Casa,Aspirador,7.0,585.04,Boleto,Concluída
+10484,Felipe,São Paulo,Roupas,Camiseta,3.0,80.66,Cartão,Pendente
+10485,Elisa,Salvador,Esportes,Bola,1.0,129.55,Cartão,Pendente
+10486,Bruno,Salvador,Livros,Ficção,1.0,68.74,Boleto,Concluída
+10487,Sofia,,Eletrônicos,Teclado,7.0,184.65,PIX,Concluída
+10488,Olivia,Belo Horizonte,Eletrônicos,Teclado,1.0,188.87,PIX,Concluída
+10489,Diego,Porto Alegre,Roupas,Vestido,4.0,200.36,Boleto,Concluída
+10490,Bruno,Salvador,Livros,Administração,1.0,82.56,Boleto,Concluída
+10491,Sofia,Rio de Janeiro,Roupas,Jaqueta,5.0,291.89,Dinheiro,Concluída
+10492,Olivia,São Paulo,Livros,Administração,1.0,74.83,PIX,Concluída
+10493,Rafael,Belo Horizonte,Livros,Biografia,4.0,65.78,Boleto,Concluída
+10494,Valentina,Brasília,Eletrônicos,Monitor,7.0,1130.84,Boleto,Concluída
+10495,Amanda,Belo Horizonte,Esportes,Mochila Esportiva,6.0,192.06,Boleto,Concluída
+10496,Diego,Rio de Janeiro,Roupas,Camiseta,6.0,72.63,PIX,Pendente
+10497,Felipe,Rio de Janeiro,Roupas,Tênis,7.0,282.15,PIX,Cancelada
+10498,Thiago,Porto Alegre,Livros,Tecnologia,6.0,98.17,Cartão,Concluída
+10499,João,Brasília,Livros,Biografia,2.0,64.9,Dinheiro,Pendente
+10500,Nicolas,Salvador,Esportes,Mochila Esportiva,7.0,164.43,Dinheiro,Concluída
+10501,Rafael,curitiba,Eletrônicos,Notebook,5.0,3973.02,Dinheiro,Concluída
+10502,Daniela,São Paulo,Livros,Romance,5.0,67.87,Boleto,Concluída
+10503,Karen,Rio de Janeiro,Livros,Administração,5.0,75.3,Cartão,Concluída
+10504,Diego,Brasília,Roupas,Vestido,3.0,201.96,,Concluída
+10505,Nicolas,Salvador,Roupas,Camiseta,3.0,76.83,Boleto,Pendente
+10506,Caio,Brasília,casa,Liquidificador,7.0,280.19,Dinheiro,Concluída
+10507,Pedro,Curitiba,Casa,Aspirador,5.0,634.29,Cartão,Pendente
+10508,Thiago,belo horizonte,Livros,Administração,2.0,81.87,Cartão,Concluída
+10509,Karen,Salvador,Roupas,Tênis,1.0,304.61,Cartão,Concluída
+10510,Eduardo,Porto Alegre,Livros,Tecnologia,1.0,81.17,PIX,Concluída
+10511,Lucas,Salvador,Casa,Cafeteira,2.0,365.09,,Concluída
+10512,Ana,Rio de Janeiro,Casa,Aspirador,7.0,557.23,PIX,Concluída
+10513,Rafael,rio de janeiro,Livros,Ficção,5.0,69.81,Boleto,Concluída
+10514,Ana,Curitiba,Roupas,Calça Jeans,4.0,158.4,Boleto,Pendente
+10515,Nicolas,Curitiba,Roupas,Camiseta,5.0,86.02,Dinheiro,Concluída
+10516,Rafael,Brasília,Eletrônicos,Monitor,2.0,1218.46,Cartão,Pendente
+10517,Amanda,Salvador,Roupas,Camiseta,3.0,69.84,Cartão,Concluída
+10518,Isabela,Rio de Janeiro,,Mochila Esportiva,7.0,161.96,PIX,Concluída
+10519,Caio,Brasília,Livros,Ficção,5.0,67.98,Cartão,Concluída
+10520,Carla,Brasília,Esportes,Raquete,4.0,291.62,Dinheiro,Pendente
+10521,Rafael,Porto Alegre,Casa,Cafeteira,6.0,345.46,Dinheiro,Concluída
+10522,Olivia,Salvador,Eletrônicos,Notebook,4.0,3219.18,Boleto,Concluída
+10523,Valentina,Belo Horizonte,Roupas,Vestido,7.0,219.53,Dinheiro,Concluída
+10524,Elisa,Curitiba,Eletrônicos,Fone Bluetooth,3.0,310.31,Dinheiro,Pendente
+10525,Eduardo,Porto Alegre,Roupas,Vestido,7.0,202.07,Dinheiro,Concluída
+10526,Nicolas,São Paulo,Eletrônicos,Fone Bluetooth,5.0,266.78,PIX,Concluída
+10527,Lucas,Curitiba,Livros,Romance,5.0,66.98,boleto,Concluída
+10528,Lucas,Rio de Janeiro,Eletrônicos,Fone Bluetooth,2.0,255.58,Dinheiro,Concluída
+10529,Thiago,Belo Horizonte,Esportes,Halteres,6.0,255.62,Dinheiro,Concluída
+10530,Sofia,São Paulo,livros,Biografia,3.0,81.72,Boleto,Cancelada
+10531,Karen,Belo Horizonte,Eletrônicos,Teclado,2.0,196.95,Boleto,Concluída
+10532,João,Curitiba,Livros,Biografia,2.0,76.47,Cartão,Concluída
+10533,João,Curitiba,Roupas,Vestido,5.0,213.01,Cartão,Concluída
+10534,Caio,Salvador,Casa,Jogo de Cama,3.0,191.63,Boleto,Concluída
+10535,Karen,Curitiba,Roupas,Jaqueta,4.0,271.49,PIX,Concluída
+10536,Lucas,Porto Alegre,Roupas,Tênis,1.0,350.51,Boleto,Concluída
+10537,Amanda,São Paulo,Esportes,Raquete,5.0,268.81,Boleto,Concluída
+10538,Felipe,Rio de Janeiro,Esportes,Halteres,3.0,262.86,PIX,Concluída
+10539,João,Rio de Janeiro,Eletrônicos,Teclado,3.0,200.29,Dinheiro,Cancelada
+10540,Valentina,Brasília,Eletrônicos,Notebook,6.0,3008.76,PIX,Cancelada
+10541,Marina,Salvador,Livros,Ficção,5.0,62.81,Dinheiro,Concluída
+10542,Caio,Belo Horizonte,Eletrônicos,Fone Bluetooth,4.0,257.32,Cartão,Concluída
+10543,Felipe,Salvador,Livros,Biografia,1.0,69.37,Cartão,Cancelada
+10544,Marina,Belo Horizonte,Livros,Tecnologia,3.0,,Cartão,Concluída
+10545,Valentina,Porto Alegre,Casa,Cafeteira,7.0,334.8,PIX,Concluída
+10546,Thiago,Rio de Janeiro,Roupas,Jaqueta,6.0,249.48,PIX,Pendente
+10547,Henrique,São Paulo,Livros,Romance,5.0,60.99,PIX,Concluída
+10548,Elisa,Rio de Janeiro,Casa,Cafeteira,6.0,353.11,Boleto,Concluída
+10549,Amanda,Rio de Janeiro,Livros,Romance,3.0,54.15,Dinheiro,Concluída
+10550,Elisa,Salvador,Casa,Aspirador,2.0,543.6,PIX,Concluída
+10551,Sofia,São Paulo,Livros,Tecnologia,1.0,99.11,Cartão,Pendente
+10552,Amanda,Curitiba,Casa,Aspirador,7.0,635.72,Boleto,Concluída
+10553,Daniela,Porto Alegre,Casa,Aspirador,6.0,528.09,PIX,Concluída
+10554,Karen,São Paulo,Casa,Jogo de Cama,4.0,231.57,Dinheiro,Pendente
+10555,Valentina,Rio de Janeiro,Roupas,Camiseta,3.0,89.3,Cartão,Concluída
+10556,Pedro,São Paulo,Esportes,Bicicleta,5.0,1506.32,PIX,Concluída
+10557,Carla,Rio de Janeiro,Casa,Liquidificador,6.0,260.33,PIX,Concluída
+10558,Rafael,Porto Alegre,Esportes,Halteres,2.0,252.94,dinheiro,Concluída
+10559,Bruno,Rio de Janeiro,Casa,Jogo de Cama,5.0,235.83,Dinheiro,Cancelada
+10560,Pedro,Curitiba,Eletrônicos,Fone Bluetooth,4.0,267.68,Boleto,Concluída
+10561,Lucas,Curitiba,Roupas,Vestido,1.0,191.05,boleto,Concluída
+10562,Henrique,Salvador,Roupas,Calça Jeans,5.0,192.48,Cartão,Concluída
+10563,Amanda,Belo Horizonte,,Notebook,2.0,3703.18,Cartão,Concluída
+10564,Gabriela,Rio de Janeiro,Casa,Cafeteira,4.0,360.16,PIX,Pendente
+10565,Rafael,Brasília,Esportes,Bicicleta,5.0,1299.32,Dinheiro,Pendente
+10566,Lucas,Salvador,Livros,Ficção,1.0,59.54,Dinheiro,Concluída
+10567,Karen,Rio de Janeiro,Eletrônicos,Smartphone,7.0,2175.45,Dinheiro,Concluída
+10568,Pedro,Curitiba,Roupas,Jaqueta,7.0,260.72,pix,Concluída
+10569,Karen,Salvador,Eletrônicos,Monitor,3.0,1079.62,Cartão,Concluída
+10570,Felipe,São Paulo,Roupas,Tênis,7.0,278.16,Dinheiro,Concluída
+10571,Karen,Belo Horizonte,Esportes,Bicicleta,2.0,1641.77,PIX,Concluída
+10572,Pedro,Rio de Janeiro,Roupas,Vestido,4.0,215.49,Boleto,Concluída
+10573,Marina,Curitiba,Livros,Administração,5.0,80.35,Cartão,Concluída
+10574,João,Belo Horizonte,Livros,Romance,6.0,61.02,Dinheiro,Concluída
+10575,Karen,Curitiba,Esportes,Halteres,7.0,214.02,cartão,Concluída
+10576,Gabriela,Belo Horizonte,Livros,Tecnologia,1.0,87.34,Boleto,Concluída
+10577,Carla,Belo Horizonte,Eletrônicos,Notebook,2.0,3552.16,PIX,Concluída
+10578,Ana,Belo Horizonte,Roupas,Calça Jeans,3.0,203.83,Cartão,Concluída
+10579,Eduardo,Porto Alegre,Eletrônicos,Notebook,7.0,3623.54,Boleto,Pendente
+10580,Eduardo,Brasília,Esportes,Bola,3.0,109.34,Boleto,Concluída
+10581,Daniela,Belo Horizonte,Eletrônicos,Smartphone,4.0,1968.49,Dinheiro,Concluída
+10582,Eduardo,Belo Horizonte,Esportes,Halteres,3.0,216.82,Dinheiro,Concluída
+10583,Diego,Rio de Janeiro,Esportes,Halteres,7.0,252.5,Boleto,Concluída
+10584,Felipe,Brasília,Roupas,Camiseta,6.0,88.51,Cartão,Concluída
+10585,Ana,São Paulo,Esportes,Raquete,,269.49,Boleto,Concluída
+10586,Rafael,Curitiba,Eletrônicos,Fone Bluetooth,2.0,287.4,PIX,Concluída
+10587,Elisa,Salvador,Casa,Cafeteira,5.0,356.63,Dinheiro,Concluída
+10588,Henrique,Brasília,Esportes,Mochila Esportiva,6.0,157.64,Cartão,Concluída
+10589,Felipe,Brasília,Eletrônicos,Teclado,6.0,197.0,Cartão,Concluída
+10590,Henrique,São Paulo,esportes,Mochila Esportiva,1.0,196.11,Dinheiro,Cancelada
+10591,Thiago,Curitiba,Livros,Romance,1.0,53.66,Dinheiro,Concluída
+10592,Diego,Belo Horizonte,Eletrônicos,Smartphone,5.0,1877.79,Cartão,Pendente
+10593,Eduardo,Salvador,Eletrônicos,Monitor,5.0,968.25,Boleto,Concluída
+10594,Henrique,Rio de Janeiro,Livros,Administração,3.0,79.48,Boleto,Concluída
+10595,Pedro,Rio de Janeiro,Roupas,Tênis,2.0,284.31,Dinheiro,Concluída
+10596,Pedro,Rio de Janeiro,Casa,Jogo de Cama,2.0,233.86,Boleto,Cancelada
+10597,Gabriela,Salvador,Eletrônicos,Monitor,6.0,967.84,Boleto,Concluída
+10598,Bruno,Brasília,Esportes,Bicicleta,4.0,1522.0,Cartão,Concluída
+10599,Valentina,Brasília,Esportes,Halteres,7.0,235.72,Boleto,Concluída
+10600,Pedro,Salvador,Eletrônicos,Fone Bluetooth,6.0,255.65,Dinheiro,Concluída
+10111,Diego,Rio de Janeiro,Casa,Cafeteira,7.0,,Dinheiro,Concluída
+10420,Ana,Curitiba,Casa,Panela,6.0,179.71,Cartão,Concluída
+10566,Lucas,Salvador,Livros,Ficção,1.0,59.54,Dinheiro,Concluída
+10078,Sofia,Belo Horizonte,Esportes,Raquete,1.0,340.61,Cartão,Cancelada
+10182,Lucas,Rio de Janeiro,roupas,Jaqueta,5.0,247.3,PIX,Concluída
+10285,Lucas,Brasília,Casa,Aspirador,6.0,592.15,PIX,Concluída
+10011,Ana,Salvador,Livros,Romance,6.0,65.16,Boleto,Concluída
+10470,Amanda,São Paulo,Eletrônicos,Notebook,7.0,3852.31,Cartão,Concluída
+10079,Carla,São Paulo,Livros,Ficção,1.0,66.72,Boleto,Concluída
+10350,Sofia,,Eletrônicos,Monitor,3.0,1110.43,PIX,Concluída
+10056,Henrique,Salvador,Livros,Tecnologia,6.0,90.12,Dinheiro,Cancelada
+10119,Karen,São Paulo,Esportes,Raquete,5.0,282.68,Boleto,Concluída
