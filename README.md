@@ -1,40 +1,30 @@
 # Atividade Avaliativa 1 - Tratamento de dados
 
-#%%
 ! pip install pandas
 
-#%%
 import pandas as pd
 import numpy as np
 
-#%%
 df = pd.read_csv("base_vendas.csv")
 df.head()
 
-#%%
 df.shape
 
-#%%
 df.info()
 
-#%%
 df.describe()
 
-#%%
 print(df.columns)
 
-#%%
 # 3. Estatísticas simples
 
 print("\nResumo estatístico:")
 print(df.describe(include="all"))
 
-#%%
 print("\nMédia do preço unitário:", df["preco_unitario"].mean())
 print("Mediana do preço unitário:", df["preco_unitario"].median())
 print("Média da quantidade:", df["quantidade"].mean())
 
-#%%
 # 4. Qualidade: nulos e duplicados
 
 print("\nValores nulos por coluna:")
@@ -42,7 +32,6 @@ print(df.isna().sum())
 
 print("\nRegistros duplicados:", df.duplicated().sum())
 
-#%%
 # 5. Padronização de categorias
 
 df["cidade"] = df["cidade"].astype("string").str.strip().str.lower()
@@ -74,10 +63,8 @@ df["status"] = df["status"].replace({
     "cancelada":"Cancelada", "pendente":"Pendente"
 })
 
-#%%
 df.head()
 
-#%%
 # 6. Tratamento de valores nulos
 
 for col in ["cidade", "categoria", "forma_pagamento"]:
@@ -97,10 +84,8 @@ df["quantidade"] = df["quantidade"].fillna(df["quantidade"].median())
 df["preco_unitario"] = df["preco_unitario"].fillna(df["preco_unitario"].median())
 
 
-#%%
 df.head()
 
-#%%
 # 7. Criação de novas colunas
 
 df["valor_total"] = df["quantidade"] * df["preco_unitario"]
@@ -111,15 +96,12 @@ df["faixa_venda"] = pd.cut(
     labels=["Baixa", "Média", "Alta"]
 )
 
-#%%
 df.head()
 
-#%%
 # 8. Remoção de duplicidades pelo identificador
 
 df = df.drop_duplicates(subset=["id_venda"], keep="first").reset_index(drop=True)
 
-#%%
 # 9. Agrupamentos
 
 print("\nFaturamento por categoria:")
@@ -131,7 +113,6 @@ print(df.groupby("cidade")["valor_total"].sum().sort_values(ascending=False))
 print("\nQuantidade de vendas por faixa:")
 print(df["faixa_venda"].value_counts())
 
-#%%
 # 10. Resultado final
 
 print("\nDimensões após tratamento:", df.shape)
