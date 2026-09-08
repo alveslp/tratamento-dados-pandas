@@ -26,7 +26,6 @@ Realizar análise e tratamento de dados utilizando Python e Pandas.
 
 - `base_vendas.csv`
 - `tratamento_de_dados.ipynb`
-- `Atividade_Avaliativa_Tratamento_Dados_FINAL.pdf`
 
 ## Autor
 
