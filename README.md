@@ -2,26 +2,33 @@
 
 #%%
 ! pip install pandas
+
 #%%
 import pandas as pd
 import numpy as np
+
 #%%
 df = pd.read_csv("base_vendas.csv")
-
 df.head()
+
 #%%
 df.shape
+
 #%%
 df.info()
+
 #%%
 df.describe()
+
 #%%
 print(df.columns)
+
 #%%
 # 3. Estatísticas simples
 
 print("\nResumo estatístico:")
 print(df.describe(include="all"))
+
 #%%
 print("\nMédia do preço unitário:", df["preco_unitario"].mean())
 print("Mediana do preço unitário:", df["preco_unitario"].median())
@@ -66,8 +73,10 @@ df["status"] = df["status"].replace({
     "concluída":"Concluída", "concluida":"Concluída",
     "cancelada":"Cancelada", "pendente":"Pendente"
 })
+
 #%%
 df.head()
+
 #%%
 # 6. Tratamento de valores nulos
 
@@ -87,8 +96,10 @@ df.loc[df["preco_unitario"] <= 0, "preco_unitario"] = np.nan
 df["quantidade"] = df["quantidade"].fillna(df["quantidade"].median())
 df["preco_unitario"] = df["preco_unitario"].fillna(df["preco_unitario"].median())
 
+
 #%%
 df.head()
+
 #%%
 # 7. Criação de novas colunas
 
@@ -99,12 +110,15 @@ df["faixa_venda"] = pd.cut(
     bins=[-np.inf, 500, 1500, np.inf],
     labels=["Baixa", "Média", "Alta"]
 )
+
 #%%
 df.head()
+
 #%%
 # 8. Remoção de duplicidades pelo identificador
 
 df = df.drop_duplicates(subset=["id_venda"], keep="first").reset_index(drop=True)
+
 #%%
 # 9. Agrupamentos
 
@@ -116,6 +130,7 @@ print(df.groupby("cidade")["valor_total"].sum().sort_values(ascending=False))
 
 print("\nQuantidade de vendas por faixa:")
 print(df["faixa_venda"].value_counts())
+
 #%%
 # 10. Resultado final
 
